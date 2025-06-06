@@ -1,0 +1,86 @@
+[
+  {
+    "title": "The Beauty of Nature",
+    "category": "Nature",
+    "image": "https://i.pinimg.com/736x/f1/9b/d0/f19bd05de04bd0c80c219c1bb8630959.jpg",
+    "description": "Discover the breathtaking views and serene landscapes from around the world."
+  },
+  {
+    "title": "Tech Trends 2025",
+    "category": "Tech",
+    "image": "https://i.pinimg.com/736x/1f/7f/e8/1f7fe8a7b3601e421524e6149e35d241.jpg",
+    "description": "Stay ahead with the latest updates and innovations in the tech world."
+  },
+  {
+    "title": "Wanderlust Diaries",
+    "category": "Travel",
+    "image": "https://i.pinimg.com/736x/e1/36/ba/e136ba1043627dc83994f55847af3262.jpg",
+    "description": "Travel stories and tips from globetrotters who live to explore."
+  },
+  {
+    "title": "Eco Living Tips",
+    "category": "Nature",
+    "image": "https://i.pinimg.com/736x/15/02/c0/1502c0ebf85474c111f5ac8d435d0335.jpg",
+    "description": "How to live sustainably and reduce your carbon footprint."
+  },
+  {
+    "title": "Street Style Revolution",
+    "description": "A deep dive into urban fashion trends taking over global cities.",
+    "content": "In recent years, streetwear has evolved into a dominant fashion movement. From oversized silhouettes to statement sneakers, it reflects individuality and creativity among youth culture worldwide.",
+    "image": "https://i.pinimg.com/736x/f2/7c/b8/f27cb8e9f28b32eabd801a2757243a91.jpg"
+  },
+  {
+    "title": "Minimalism in 2025",
+    "description": "Why minimalism continues to thrive in the fashion world.",
+    "content": "The minimalist trend emphasizes clean lines, neutral palettes, and sustainable choices. Designers now focus on functionality without compromising on elegance.",
+    "image": "https://i.pinimg.com/736x/ea/08/f4/ea08f4b66c45d50eded97eda07c1a356.jpg"
+  },
+  {
+    "title": "Eco-Friendly Fashion",
+    "description": "The rise of sustainable clothing and ethical brands.",
+    "content": "More fashion houses are adopting eco-conscious practices, such as organic materials, ethical labor, and recycling initiatives. Green is the new black.",
+    "image": "https://i.pinimg.com/736x/c4/a5/28/c4a5281380680625b716175632c2e82e.jpg"
+  },
+  {
+    "title": "Color Blocking Comeback",
+    "description": "Bold colors are back in style this season!",
+    "content": "From neon hues to primary color palettes, color blocking is once again taking over the runways. It's a playful way to express personality through fashion.",
+    "image": "https://i.pinimg.com/736x/77/17/87/77178773987a5f14110e7e185f7f851c.jpg"
+  },
+  {
+    "title": "Tech Meets Style",
+    "description": "Smart fabrics and wearable tech are the new trend.",
+    "content": "Fashion meets function in the world of wearable technology. From solar-powered jackets to smart accessories, the future is wearable.",
+    "image": "https://i.pinimg.com/736x/6a/53/b7/6a53b72cc4a80841482455b2cf49685e.jpg"
+  },
+  {
+    "title": "Retro Revival",
+    "description": "Bringing back iconic styles from the '70s, '80s, and '90s.",
+    "content": "Vintage fashion is having a major moment. Think bell-bottoms, windbreakers, and platform shoes, all coming back with a modern twist.",
+    "image": "https://i.pinimg.com/736x/dd/5c/d2/dd5cd225a2e59388e2c74acd2f9adc6e.jpg"
+  },
+  {
+    "title": "Runway to Real Life",
+    "description": "How to translate high-fashion looks into everyday outfits.",
+    "content": "Runway looks can feel intimidating, but breaking them down into manageable trends helps people incorporate high fashion into their daily wardrobe.",
+    "image": "https://i.pinimg.com/736x/e6/8c/1d/e68c1dfb9d4b1543cd16a06f2d16aaec.jpg"
+  },
+  {
+    "title": "Cottagecore Aesthetic",
+    "description": "Romantic rural styles dominate social fashion feeds.",
+    "content": "Cottagecore is more than a fashion trend—it’s a lifestyle. Flowing dresses, soft florals, and vintage accessories bring fairytale charm to everyday life.",
+    "image": "https://i.pinimg.com/736x/33/60/f4/3360f44fbe2e83fee7a798fd1409553b.jpg"
+  },
+  {
+    "title": "Androgynous Fashion",
+    "description": "Blurring gender lines with bold, expressive clothing.",
+    "content": "The fashion industry embraces genderless collections. Tailored suits, flowing fabrics, and unisex accessories give everyone the freedom to express themselves.",
+    "image": "https://i.pinimg.com/736x/71/0a/50/710a5053c707cad19d480d875e3d574a.jpg"
+  },
+  {
+    "title": "The Rise of Digital Fashion",
+    "description": "Clothing you can only wear online? Welcome to the metaverse.",
+    "content": "From NFTs to virtual garments for avatars, digital fashion is a futuristic, zero-waste solution blending style with technology and self-expression.",
+    "image": "https://i.pinimg.com/736x/0d/4e/7f/0d4e7fefa5b7a6fd3c7740bd215b3e1c.jpg"
+  }
+]
